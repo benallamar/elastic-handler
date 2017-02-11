@@ -1,0 +1,8 @@
+{
+  "name": "Elasticsearch",
+  "hosts": [
+    "your_host_url"
+  ],
+  "username": "your_user_name",
+  "password": "your_password"
+}
